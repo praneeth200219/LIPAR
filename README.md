@@ -13,4 +13,7 @@ MIRACL-VC1 is a lip-reading dataset including both depth and color images. It ca
 
 <img src="Images/EmbeddedImage.jpg" width="1000"/>
 
-Please download the MIRACL-VC1 dataset from [here](https://sites.google.com/site/achrafbenhamadou/-datasets/miracl-vc1) 
+Please download the MIRACL-VC1 dataset from [here](https://sites.google.com/site/achrafbenhamadou/-datasets/miracl-vc1)
+
+## Additional Files
+Please download the Dlib Facial Landmarks Detector from [here](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat) and place it in the models folder
