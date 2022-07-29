@@ -17,3 +17,9 @@ Please download the MIRACL-VC1 dataset from [here](https://sites.google.com/site
 
 ## Additional Files
 Please download the Dlib Facial Landmarks Detector from [here](https://github.com/tzutalin/dlib-android/blob/master/data/shape_predictor_68_face_landmarks.dat) and place it in the models folder
+
+Features
+- [x] State-of-the-art preprocessing, RoI extraction and feature normalization techniques
+- [x] A novel 3D Deep learning framework is proposed for estimating the word spoken from the user’s videotape
+- [ ] Publically available LIPAR dataset
+- [ ] Application Prototype to full deployment
