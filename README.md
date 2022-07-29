@@ -7,7 +7,6 @@ This is the official implementation of our paper titled: **LIPAR -  Dynamic Pers
 - Developed an autonomous smart application prototype for edge devices without any manual intervention
 - A real-time dataset similar to the existing MIRACL-VC1 dataset consisting of 35 speakers to perform the task of word-level VSR is prepared.
 <img src="Images/PPROI_page-0001.jpg" width="1000"/>
-Preprocessing and RoI extraction
 
 ## Dataset
 MIRACL-VC1 is a lip-reading dataset including both depth and color images. It can be used for diverse research fields like visual speach recognition, face detection, and biometrics. Fifteen speakers (five men and ten women) positioned in the frustum of a MS Kinect sensor and utter ten times a set of ten words and ten phrases. Each instance of the dataset consists of a synchronized sequence of color and depth images (both of 640x480 pixels).  The MIRACL-VC1 dataset contains a total number of 3000 instances.
